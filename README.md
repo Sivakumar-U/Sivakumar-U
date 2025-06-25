@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sivakumar-U
-- 👀 I’m interested in Java fullStack & python
+- 👀 I’m interested in Java fullStack with React JS
 - 🌱 I’m currently working.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
